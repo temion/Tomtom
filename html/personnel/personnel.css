@@ -1,12 +1,3 @@
-header
-{
-	position : absolute;
-	color : white;
-	top : 0;
-    left : 0; 
-    right : 0;
-	background-color : #0E2365;
-}
 img.images
 {
 	padding-top:20px;
@@ -15,21 +6,12 @@ img.images
 	margin-left:auto;
 	margin-right:auto;
 }
-h1
-{
-	text-align: center;
-}
 h2
 {
 	color:white;
 	text-align:center;
 	line-height:50px;
 	background-image : linear-gradient(180deg, #37ACD8, #0E2365);
-}
-body 
-{
-	padding-top:16%;
-	font-family: Arial;
 }
 dd
 {
@@ -40,36 +22,7 @@ dl
 {
 	padding-top:1%;
 }
-div#orga
+#orga
 {
 	text-align : center;
-}
-#menu
-{
-	background-color : black;
-}
-#menu a 
-{
-	display : inline-block;
-	width : 20%;
-	line-height : 50px;
-	text-align : center;
-	vertical-align : middle;
-	color : white;
-	text-decoration : none;
-	background-color : black;
-	float : left;
-}
-#menu a:hover 
-{
-	background-image : linear-gradient(180deg, #37ACD8, #0E2365);
-}
-#home
-{
-	color:black;
-	text-align:center;
- 	text-decoration:none; 
- 	font-weight: bold;
- 	border: groove blue;
-	background-color:gray;
 }

@@ -1,34 +1,3 @@
-body 
-{
-	font-family : Arial;
-	padding-right : 10%;
-	padding-left : 10%;
-	padding-top : 20%;
-}
-h1
-{
-	text-align:center;
-}
-#menu 
-{
-	background-color : black;
-}
-#menu a 
-{
-	display : inline-block;
-	width : 20%;
-	line-height : 50px;
-	text-align : center;
-	vertical-align : middle;
-	color : white;
-	text-decoration : none;
-	background-color : black;
-	float : left;
-}
-#menu a:hover 
-{
-	background-image : linear-gradient(180deg, #37ACD8, #0E2365);
-}
 #intro
 {
 	text-align:center;
@@ -40,9 +9,5 @@ img[title="En construction"]
 	margin-left:auto;
 	margin-right:auto;
 	padding-top:50px;
-	padding-bottom:55px;
-}
-footer
-{
-	position:absolute;
+	padding-bottom:55px; 
 }
