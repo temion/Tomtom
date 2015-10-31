@@ -1,0 +1,19 @@
+body 
+{
+	font-family : Arial;
+}
+#home
+{
+ 	text-decoration:none; 
+ 	font-weight: bold;
+ 	color:black;
+ 	border: solid thin gray ;
+ 	background : silver;
+}
+#footer
+{
+    position: relative;
+    bottom: 0;
+    left: 0; 
+    right: 0;
+}
