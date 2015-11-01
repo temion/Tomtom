@@ -28,8 +28,6 @@ footer
 	text-decoration:none; 
  	font-weight: bold;
  	color:black;
- 	border: solid thin gray ;
- 	background : silver;
 }
 h1
 {
@@ -65,7 +63,7 @@ h2
 #home a
 {
 	text-decoration : none;
-	border : solid, thin, black;
+	border : solid thin black;
 	background-color : #37ACD8;
 	color : black;
 	float : right;
