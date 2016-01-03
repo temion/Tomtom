@@ -1,6 +1,6 @@
 body 
 {
-	padding-top : 300px;
+	padding-top : 275px;
 	padding-bottom : 75px;
 	font-family : Arial;
 	margin :0;
@@ -96,4 +96,17 @@ dd
 header img
 {
 	padding : 20px;
+}
+img.images
+{
+	padding-top:20px;
+	padding-bottom:20px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+u
+{
+	font-style : italic;
+	color : #0E2365;
 }

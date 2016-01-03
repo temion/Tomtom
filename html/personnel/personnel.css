@@ -1,11 +1,3 @@
-img.images
-{
-	padding-top:20px;
-	padding-bottom:20px;
-	display:block;
-	margin-left:auto;
-	margin-right:auto;
-}
 h2
 {
 	color:white;
@@ -26,3 +18,23 @@ dl
 {
 	text-align : center;
 }
+table
+{
+	margin : auto;
+	border-collapse : collapse;
+}
+td, th
+{
+	padding : 5px;
+	width : 150px;
+	border : 1px solid black;
+}
+thead
+{
+	border : 1px solid black;
+}
+thead .enseignants
+{
+	color : #37ACD8;
+}
+
